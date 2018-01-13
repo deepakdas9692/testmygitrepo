@@ -1,2 +1,1 @@
-# testmygitrepo
-it is my git project
+hii iam jhon i love india
